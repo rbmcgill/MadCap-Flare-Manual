@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="true"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2016-04-15T14:34:18.1520829-04:00"
+  ProjectName="REC'd MadCap Online Guide"
+  ProjectFolder="E:\MadCap Flare Project\REC'd MadCap Online Guide\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  LastImport="2016-04-15T14:34:22.0756902-04:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/PWTC Lab/Downloads/Condition-Tags.docx"
+      AbsoluteSource="file:///C:/Users/PWTC Lab/Downloads/Condition-Tags.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Condition-Tags/Single Sourcing with Condition.htm"
+      TimeStamp="4/15/2016 2:34:20 PM" />
+    <Url
+      Source="../TOCs/Condition-Tags.fltoc"
+      TimeStamp="4/15/2016 2:34:20 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Condition-Tags.css"
+      TimeStamp="4/15/2016 2:34:20 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles />
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles>
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

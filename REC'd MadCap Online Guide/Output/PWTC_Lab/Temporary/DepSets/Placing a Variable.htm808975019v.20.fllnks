@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Condition-Tags.css" />
+    <Link
+      Url="Content/Resources/Images/SnippetsandVariables/Snippets_7.png" />
+    <Link
+      Url="Content/Resources/Images/SnippetsandVariables/Snippets_8.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Condition-Tags.css" />
+    <Link
+      Url="Content/Resources/Images/SnippetsandVariables/Snippets_7.png" />
+    <Link
+      Url="Content/Resources/Images/SnippetsandVariables/Snippets_8.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Condition-Tags.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

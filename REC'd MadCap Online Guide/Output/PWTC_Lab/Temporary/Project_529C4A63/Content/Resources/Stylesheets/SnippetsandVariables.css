@@ -1,0 +1,145 @@
+/*<meta sourceDocument="C:\Users\PWTC Lab\Downloads\SnippetsandVariables.docx" />*/
+
+p
+{
+	font-family: Arial;
+	color: #000000;
+	font-size: 11pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ol
+{
+	font-family: Arial;
+	color: #000000;
+	font-size: 11pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ul
+{
+	font-family: Arial;
+	color: #000000;
+	font-size: 11pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+li
+{
+	font-family: Arial;
+	color: #000000;
+	font-size: 11pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+td
+{
+	font-family: Arial;
+	color: #000000;
+	font-size: 11pt;
+	vertical-align: top;
+}
+
+h1.Heading1
+{
+	color: #000000;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 20pt;
+	margin-bottom: 6pt;
+	mc-heading-level: 1;
+	font-family: Arial;
+	font-size: 20pt;
+	font-weight: normal;
+}
+
+h3.Heading3
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 16pt;
+	margin-bottom: 4pt;
+	mc-heading-level: 3;
+	font-family: Arial;
+	color: #434343;
+	font-size: 14pt;
+	font-weight: normal;
+}
+
+span.span_1
+{
+	font-weight: bold;
+}
+
+ol.ol_1
+{
+	list-style-type: decimal;
+	margin-left: 36pt;
+}
+
+img.img_1
+{
+	visibility: visible;
+	mso-wrap-style: square;
+}
+
+p.p_1
+{
+	color: #FF0000;
+}
+
+li.li_1
+{
+	color: #FF0000;
+}
+
+img.img_2
+{
+	z-index: 1;
+	visibility: visible;
+	mso-wrap-style: square;
+	mso-wrap-distance-left: 9pt;
+	mso-wrap-distance-top: 9pt;
+	mso-wrap-distance-right: 9pt;
+	mso-wrap-distance-bottom: 9pt;
+	mso-position-horizontal: absolute;
+	mso-position-horizontal-relative: margin;
+	mso-position-vertical: absolute;
+	mso-position-vertical-relative: text;
+	margin-left: 166.5pt;
+}
+
+h2.Heading2
+{
+	color: #000000;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 18pt;
+	margin-bottom: 6pt;
+	mc-heading-level: 2;
+	font-family: Arial;
+	font-size: 16pt;
+	font-weight: normal;
+}
+
+ol.ol_2
+{
+	list-style-type: lower-alpha;
+	margin-left: 72pt;
+}
+
+MadCap|footnote.footnote
+{
+	mc-footnote-comment-format: '{n}';
+	mc-footnote-format: '{n}';
+}
+
+span.span_2
+{
+	font-size: 10pt;
+}
+

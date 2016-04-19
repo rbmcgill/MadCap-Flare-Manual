@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\PWTC Lab\Downloads\SnippetsandVariables.docx">
+  <TocEntry
+    Title="Snippets" />
+  <TocEntry
+    Title="Creating and Using Topics" />
+  <TocEntry
+    Title="Importing Files"
+    Link="/Content/Importing/Importing Files.htm" />
+  <TocEntry
+    Title="Inserting Images and Videos" />
+</CatapultToc>
